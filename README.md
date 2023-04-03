@@ -26,9 +26,9 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
 ## <a name='toc'>Table of Contents</a>
 
 * [X] [Questions about Design Patterns](#patterns)
-  * [X][Globals Are Evil](#globals-are-evil)
-  * [Inversion of Control](#inversion-of-control)
-  * [Law of Demeter](#law-of-demeter)
+  * [X] [Globals Are Evil](#globals-are-evil)
+  * [X] [Inversion of Control](#inversion-of-control)
+  * [ ] [Law of Demeter](#law-of-demeter)
   * [Active-Record](#active-record)
   * [Data-Mapper](#data-mapper)
   * [Billion-Dollar Mistake](#billion-dollar-mistake)
