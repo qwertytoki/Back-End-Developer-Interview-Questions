@@ -44,9 +44,9 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
 
 * [Questions about Code Design](#design)
   * [X] [High Cohesion, Loose Coupling](#high-cohesion-loose-coupling)
-  * [ ] [Index 0](#index-0)
-  * [ ] [TDD](#tdd)
-  * [ ] [DRY Violation](#dry-violation)
+  * [X] [Index 0](#index-0)
+  * [X] [TDD](#tdd)
+  * [X] [DRY Violation](#dry-violation)
   * [ ] [Cohesion vs Coupling](#cohesion-vs-coupling)
   * [ ] [Refactoring](#refactoring)
   * [ ] [Code Comments](#code-comments)
@@ -58,7 +58,7 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
   * [ ] [Bad Design](#bad-design)
 
 * [Questions about languages](#languages)
-  * [ ] [3 Worst Defects](#3-worst-defects)
+  * [X] [3 Worst Defects](#3-worst-defects)
   * [ ] [Functional Programming](#functional-programming)
   * [ ] [Closures](#closures)
   * [ ] [Generics](#generics)
