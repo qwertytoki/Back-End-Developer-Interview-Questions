@@ -26,8 +26,8 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
 ## <a name='toc'>Table of Contents</a>
 
 * [Questions about Design Patterns](#patterns)
-  * [ ] [Globals Are Evil](#globals-are-evil)
-  * [ ] [Inversion of Control](#inversion-of-control)
+  * [X [Globals Are Evil](#globals-are-evil)
+  * [X] [Inversion of Control](#inversion-of-control)
   * [ ] [Law of Demeter](#law-of-demeter)
   * [ ] [Active-Record](#active-record)
   * [ ] [Data-Mapper](#data-mapper)
@@ -43,7 +43,7 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
   * [ ] [Separation of Concerns](#separation-of-concerns)
 
 * [Questions about Code Design](#design)
-  * [ ] [High Cohesion, Loose Coupling](#high-cohesion-loose-coupling)
+  * [X] [High Cohesion, Loose Coupling](#high-cohesion-loose-coupling)
   * [ ] [Index 0](#index-0)
   * [ ] [TDD](#tdd)
   * [ ] [DRY Violation](#dry-violation)
